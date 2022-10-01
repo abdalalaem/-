@@ -1,4 +1,4 @@
-FROM _/userbot:slim-buster
+FROM-/userbot:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/aaddr2iq/aaddr2.git /root/aaddr2
